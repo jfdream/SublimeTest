@@ -10,5 +10,6 @@ int main(int argc, char const *argv[])
 		printf("%d\n", i);
 		/* code */
 	}
+	printf("%s\n", "yangyudong");
 	return 0;
 }
